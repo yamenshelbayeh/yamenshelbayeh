@@ -25,6 +25,9 @@ I'm a 2nd year Computer Science Engineering student at the University of Debrece
 ## Featured Projects
 - **[Bank Management System in C++](https://github.com/yamenshelbayeh/bank-management-system-cpp)**  
   A console-based banking system with client management, user permissions, transactions, login tracking, and currency exchange.
+  
+- **[Hotel Room Reservation System in C++](https://github.com/yamenshelbayeh/hotel-room-reservation-system-cpp)**  
+   A console-based hotel reservation system built with OOP, linked lists, file handling, and operator overloading.
 
 ## Contact
 - LinkedIn: [linkedin.com/in/yamenshelbaya](https://www.linkedin.com/in/yamenshelbaya)
