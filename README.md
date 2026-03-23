@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello there, I'm Yamen
 
-<!--
-**yamenshelbayeh/yamenshelbayeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 2nd year Computer Science Engineering student at University of Debrecen
+interested in C++, problem solving, software development, and cyber security.
 
-Here are some ideas to get you started:
+## About Me
+- 2nd year CSE student
+- Building C++ academic and personal projects
+- Interested in clean and structured code
+- Currently preparing my GitHub, CV, and LinkedIn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C++
+- C
+- Java
+- Git & GitHub
+- OOP
+- Data Structures and Algorithms
+- Database & SQL
+
+## Current Focus
+- Improving my C++ projects
+- Building a stronger GitHub profile
+- Looking for internships
+
+## Contact
+- LinkedIn: www.linkedin.com/in/yamenshelbaya
+
