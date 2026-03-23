@@ -1,7 +1,6 @@
 # Hello there, I'm Yamen
 
-I'm a 2nd year Computer Science Engineering student at University of Debrecen
-interested in C++, problem solving, software development, and cyber security.
+I'm a 2nd year Computer Science Engineering student at the University of Debrecen, interested in C++, problem solving, software development, and cybersecurity.
 
 ## About Me
 - 2nd year CSE student
@@ -23,9 +22,9 @@ interested in C++, problem solving, software development, and cyber security.
 - Building a stronger GitHub profile
 - Looking for internships
 
-## Projects
--
+## Featured Projects
+- **[Bank Management System in C++](https://github.com/yamenshelbayeh/bank-management-system-cpp)**  
+  A console-based banking system with client management, user permissions, transactions, login tracking, and currency exchange.
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/yamenshelbaya
-
+- LinkedIn: [linkedin.com/in/yamenshelbaya](https://www.linkedin.com/in/yamenshelbaya)
