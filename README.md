@@ -23,6 +23,9 @@ interested in C++, problem solving, software development, and cyber security.
 - Building a stronger GitHub profile
 - Looking for internships
 
+## Projects
+-
+
 ## Contact
 - LinkedIn: www.linkedin.com/in/yamenshelbaya
 
