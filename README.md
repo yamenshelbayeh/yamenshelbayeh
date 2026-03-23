@@ -7,6 +7,7 @@ I'm a 2nd year Computer Science Engineering student at the University of Debrece
 - Building C++ academic and personal projects
 - Interested in clean and structured code
 - Currently preparing my GitHub, CV, and LinkedIn
+- Exploring everything before going deeply into cybersecurity
 
 ## Skills
 - C++
