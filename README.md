@@ -1,35 +1,59 @@
-# Hello there, I'm Yamen
+# Hi, I'm Yamen 👋
 
-I'm a 2nd year Computer Science Engineering student at the University of Debrecen, interested in C++, problem solving, software development, and cybersecurity.
+🎓 Computer Science Engineering student at University of Debrecen
+📍 Debrecen, Hungary
 
-## About Me
-- 2nd year CSE student
-- Building C++ academic and personal projects
-- Interested in clean and structured code
-- Currently preparing my GitHub, CV, and LinkedIn
-- Exploring everything before going deeply into cybersecurity
+---
 
-## Skills
-- C++
-- C
-- Java
-- Python
-- Git & GitHub
-- OOP
-- Data Structures and Algorithms
-- Database & SQL
+## 💡 About Me
 
-## Current Focus
-- Working on my Data Science Skills (NumPy, Pandas)
-- Building a stronger GitHub profile
-- Looking for internships
+I’m a second-year CSE student focused on building strong fundamentals in software engineering, systems, and data-driven applications.
+I enjoy working on structured, logic-heavy problems and turning ideas into clean, working systems.
 
-## Featured Projects
-- **[Bank Management System in C++](https://github.com/yamenshelbayeh/bank-management-system-cpp)**  
-  A console-based banking system with client management, user permissions, transactions, login tracking, and currency exchange.
-  
-- **[Hotel Room Reservation System in C++](https://github.com/yamenshelbayeh/hotel-room-reservation-system-cpp)**  
-   A console-based hotel reservation system built with OOP, linked lists, file handling, and operator overloading.
+---
 
-## Contact
-- LinkedIn: [linkedin.com/in/yamenshelbaya](https://www.linkedin.com/in/yamenshelbaya)
+## 🛠️ Tech Stack
+
+* **Languages:** C++, Java, Python, SQL
+* **Tools:** Git, GitHub, Linux CLI
+* **Concepts:** OOP, Data Structures, Algorithms
+* **Databases:** MySQL, PostgreSQL
+
+---
+
+## 🚀 Current Focus
+
+* Strengthening Python for AI & data science
+* Building practical projects in C++ and Python
+* Improving problem-solving and system design skills
+
+---
+
+## 📂 Projects
+
+Here are some of my key projects:
+
+* 🔹 **Bank Management System (C++)**
+  Console-based system with authentication, transactions, and file handling
+
+* 🔹 **Hotel Reservation System (C++)**
+  OOP-based booking system with structured data handling
+
+* 🔹 **Bezier Curve Editor (OpenGL)**
+  Interactive graphics project using shaders and GLFW
+
+---
+
+## 🎯 Goals
+
+* Secure a **Software Developer / Data Science Internship**
+* Build strong real-world projects
+* Grow into a high-level software engineer
+
+---
+
+## 📫 Contact Me
+
+* 📧 Email: [yamenshelbayeh@gmail.com](mailto:yamenshelbayeh@gmail.com)
+* 🔗 LinkedIn: https://www.linkedin.com/in/yamenshelbaya
+* 💻 GitHub: https://github.com/yamenshelbayeh
