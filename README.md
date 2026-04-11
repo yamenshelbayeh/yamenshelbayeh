@@ -36,21 +36,18 @@ I enjoy working on structured, logic-heavy problems and turning ideas into clean
 🔗 https://github.com/yamenshelbayeh/bank-management-system-cpp
 Console-based banking system with authentication, transactions, and file handling.
 
----
 
 ### 🏨 Hotel Room Reservation System (C++)
 
 🔗 https://github.com/yamenshelbayeh/hotel-room-reservation-system-cpp
 OOP-based reservation system with structured booking and data management.
 
----
 
 ### 🎨 Bezier Curve Editor (OpenGL)
 
 🔗 https://github.com/yamenshelbayeh/bezier-curve-editor-opengl
 Interactive OpenGL application using shaders with dynamic Bézier curve manipulation.
 
----
 
 ## 🎯 Goals
 
