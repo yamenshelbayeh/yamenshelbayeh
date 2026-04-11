@@ -18,6 +18,7 @@ I enjoy working on structured, logic-heavy problems and turning ideas into clean
 * **Tools:** Git, GitHub, Linux CLI
 * **Concepts:** OOP, Data Structures, Algorithms
 * **Databases:** MySQL, PostgreSQL
+* **Data Science (academic):** NumPy, Pandas.
 
 ---
 
