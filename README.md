@@ -46,7 +46,7 @@ Here are some of my key projects:
 
 ## 🎯 Goals
 
-* Secure a **Software Developer / Data Science Internship**
+* Secure an internship
 * Build strong real-world projects
 * Grow into a high-level software engineer
 
