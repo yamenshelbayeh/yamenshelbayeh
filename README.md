@@ -13,13 +13,14 @@ I'm a 2nd year Computer Science Engineering student at the University of Debrece
 - C++
 - C
 - Java
+- Python
 - Git & GitHub
 - OOP
 - Data Structures and Algorithms
 - Database & SQL
 
 ## Current Focus
-- Improving my C++ projects
+- Working on my Data Science Skills (NumPy, Pandas)
 - Building a stronger GitHub profile
 - Looking for internships
 
