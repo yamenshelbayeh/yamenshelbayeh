@@ -101,6 +101,12 @@ Object-oriented hotel reservation system with booking and data management functi
 
 ---
 
+## 🏅 Certifications
+
+- **CS50's Introduction to Artificial Intelligence with Python** — Harvard University
+  - Topics: Search, Knowledge, Machine Learning, Neural Networks, NLP
+  - [View Certificate](https://certificates.cs50.io/04dd7715-6e0d-467b-a86f-9c205e64e171.pdf?size=letter)
+
 ## 📫 Contact Me
 
 * 📧 [yamenshelbayeh@gmail.com](mailto:yamenshelbayeh@gmail.com)
